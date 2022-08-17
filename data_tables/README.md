@@ -19,6 +19,8 @@ See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tab
 See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
 
 ### State action/policy data sources
+**This dataset stopped being updated on 5/31/2022**
+
 Visualize this information at the JHU Coronavirus Resource Center: [impact of opening and closing decisions by state](https://coronavirus.jhu.edu/data/state-timeline)
 
 - Alabama: Governor's newsroom: https://governor.alabama.gov/newsroom/category/press-releases/
