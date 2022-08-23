@@ -24,6 +24,9 @@ See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tab
 
 See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
 
+### US states reporting frequencies map
+See [US_reporting_frequency.csv](https://github.com/govex/COVID-19/blob/master/data_tables/US_reporting_frequency.csv) for the complete list of data sources for this dataset
+
 ### State action/policy data sources
 **This dataset stopped being updated on 5/31/2022**
 
