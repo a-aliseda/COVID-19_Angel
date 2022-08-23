@@ -10,13 +10,13 @@
 - readme.md: Description of contents and list of data sources
 
 ## Data sources
-### Data updated after 9/2/2022
-- On 9/2/2022, the CRC changed the data sources for all its vaccination data. The current data sources are:
+### Data updated after 9/6/2022
+- On 9/6/2022, the CRC changed the data sources for all its vaccination data. The current data sources are:
   - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
   - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
   - World Health Organization (WHO): https://covid19.who.int/who-data/vaccination-data.csv
 
-### Data updated before 9/2/2022
+### Data updated on 9/5/2022 and before
 - Aggregated data sources:
   - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
   - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
