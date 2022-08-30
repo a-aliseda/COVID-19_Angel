@@ -3,9 +3,7 @@
 
 ## Files in this folder
 
-- time_series_covid19_vaccine_global.csv: Contains time series data. Each row is uniquely defined by `country` and `date`. Long format.
-- time_series_covid19_vaccine_doses_admin_global.csv: Contains time series data. Each row is uniquely defined by `country` and `date`Wide format.
-- vaccine_data_global.csv: Contains the most recent data collected for each country. Each row is uniquely defined by `country`
+- time_series_covid19_vaccine_global.csv: Contains time series data. Each row is uniquely defined by `Country_Region`, `UID`, and `Date`. Long format.
 - data_dictionary.csv: Metric definitions
 - readme.md: Description of contents and list of data sources
 
