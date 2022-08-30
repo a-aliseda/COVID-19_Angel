@@ -5,4 +5,3 @@ Province_State, Province or State name
 Country_Region,Country or region name
 Doses_admin,"Cumulative number of doses administered. When a vaccine requires multiple doses, each one is counted independently"
 People_at_least_one_dose,"Cumulative number of people who received at least one vaccine dose. When the person receives a prescribed second dose, it is not counted twice"
-Report_Date_String,Data reported date
