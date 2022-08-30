@@ -1,7 +1,6 @@
 This is the data repository for COVID-19 United States Cases by County Dashboard created by Johns Hopkins University Centers for Civic Impact. Automation is supported by Esri Living Atlas team, JHU APL, and JHU Sheridan Libraries. 
 
-- Visual Dashboard (desktop): https://coronavirus.jhu.edu/us-map
-- Visual Dashboard (mobile): 
+- Visual Dashboard: https://coronavirus.jhu.edu/us-map
 
 ## Data Sources
 This list includes a complete list of all sources ever used in the data set.
@@ -26,4 +25,4 @@ Note:
 - All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
 
 ## Updates after 9/6/2022
-The data sources used for US county-level confirmed cases and deaths changed. Check [CSSE's repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) for the new updated list of data sources. 
+The data sources used for US county-level confirmed cases and deaths changed. Check [CSSE's repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) for the new updated list of data sources. Moreover, the file CAIH_COVID_Master_08012022.xlsx that powers the Tribal Lands Interactive Map laye on the map will no longer be updated.
