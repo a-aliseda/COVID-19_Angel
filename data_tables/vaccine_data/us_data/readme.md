@@ -2,8 +2,7 @@
 
 ## Files in this folder
 
-- time_series/vaccine_data_us_timeline.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `Vaccine_Type`. Long format.
-- time_series_covid19_vaccine_doses_admin_US.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `Vaccine_Type`. Wide format.
+- time_series_covid19_vaccine_us.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Long format.
 - data_dictionary.csv: Metric definitions
 - readme.md: This file. Description of contents and list of data sources
 
